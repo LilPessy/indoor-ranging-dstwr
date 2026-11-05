@@ -219,3 +219,4 @@ I grafici sono PDF vettoriali, pronti per essere inclusi in LaTeX.
 
 Daniele Petti, Politecnico di Bari
 Relatori: Prof. L. A. Grieco, Prof. G. Boggia
+Correlatore: Dott. R. Semeraro
